@@ -1,0 +1,21 @@
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.Form1.resources
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.Properties.Resources.resources
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\bin\Debug\spider2.exe
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\bin\Debug\spider2.pdb
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.exe
+C:\Documents and Settings\sa.ANKOVO\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.exe
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\bin\Debug\spider2.exe
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\bin\Debug\spider2.pdb
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.Form1.resources
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\spider2.Properties.Resources.resources
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\spider2\spider2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GIT\Gas-spider\spider2\obj\x86\Debug\spider2.exe
+D:\GIT\Gas-spider\spider2\obj\x86\Debug\spider2.pdb
